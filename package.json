@@ -1,0 +1,23 @@
+{
+	"name" : "ci_query_builder_lib",
+	"version" : "1.0.0",
+	"description" : "This is a small query builder library using codeigniter's active records or query builder class.",
+	"author" : "Sarah Seguenza",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/sarahseguenza/Codeigniter-Query-Builder-Library.git"
+	},
+	"keywords" : [
+		"mysql",
+		"codeigniter",
+		"query",
+		"mysql query builder",
+		"escape query"
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": ""
+		}
+	],
+}
